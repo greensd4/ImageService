@@ -1,0 +1,35 @@
+﻿<Window x:Class="SettingsView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:controls="clr-namespace:SettingsView.View"
+        xmlns:resources="clr-namespace:SettingsView.Resources"
+        mc:Ignorable="d"
+        Title="Settings" Height="450" Width="800">
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Closing">
+            <i:InvokeCommandAction Command="{Binding WindowCloseCommand}"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+    <Window.Resources>
+        <resources:ConnectionBackgroundCoverter x:Key="ConnectionConverter"></resources:ConnectionBackgroundCoverter>
+    </Window.Resources>
+    <Grid Background="{Binding IsConnected, Converter={StaticResource ConnectionConverter}}">
+        <TabControl>
+            <TabItem>
+                <TabItem.Header>
+                    <TextBlock Text="Settings" Foreground="Black" Background="Transparent"/>
+                </TabItem.Header>
+                <controls:ConfigView/>
+            </TabItem>
+            <TabItem>
+                <TabItem.Header>
+                    <TextBlock Text="Logs" Foreground="Black" Background="Transparent" />
+                </TabItem.Header>
+                <controls:LogView/>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

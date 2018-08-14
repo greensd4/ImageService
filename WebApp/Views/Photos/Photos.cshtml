@@ -1,0 +1,35 @@
+﻿@model WebApp.Models.PhotosModel
+
+@{
+    ViewBag.Title = "Photos";
+}
+
+<h2>Photos</h2>
+@if(Model.Photos.Count == 0)
+{
+    <div> There are no photos in the directory!</div>
+}
+@foreach (var item in Model.Photos)
+{
+    <div class="col-xs-18 col-sm-6 col-md-3">
+        <div class="thumbnail">
+            <img class="img-circle" src="/@item.ThumbPath.Replace(Server.MapPath("~"),"").Replace("\\","/")" alt="Avatar">
+            <div class="caption">
+                <h4> @item.Name </h4>
+                <p>Date: @item.Date</p>
+                <p>
+                    @Html.ActionLink("View", "ViewPhotoPressed", new { name = item.Name, path = item.Path, thumbPath = item.ThumbPath }, new { @class = "btn btn-primary btn-info btn-xs" })
+                    @Html.ActionLink("Delete", "DeletePhotoPressed", new { name = item.Name, path = item.Path, thumbPath = item.ThumbPath }, new { @class = "btn btn-primary btn-info btn-xs" }) </p>
+            </div>
+        </div>
+    </div>
+}
+
+
+
+
+
+
+
+
+

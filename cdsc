@@ -1,0 +1,161 @@
+[33mcommit c0dc7381385abe7804d7d28e03995badf6c3666f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Sun Apr 15 16:39:01 2018 +0300
+
+    renaming
+
+[33mcommit 125bbbb432fe588d76282dda39fb22fd2cd5457c[m
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Sun Apr 15 12:07:52 2018 +0300
+
+    renaming
+
+[33mcommit d294e6234e8dd0b14f45c9919f7b563a381a0000[m
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Sat Apr 14 17:08:39 2018 +0300
+
+    Canceled renaming and stuff
+
+[33mcommit 2e0a8706a2d63008435ad9ebd1572bdb9b673148[m
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Sat Apr 14 15:26:05 2018 +0300
+
+    ignore double files
+
+[33mcommit df212e013d386b71dfde4bb3900a5daacb7a2ff2[m
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Sat Apr 14 11:58:16 2018 +0300
+
+    added month name
+
+[33mcommit 1f83350cbeb0598dc65d0af48255924627d6be39[m
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Fri Apr 13 13:13:47 2018 +0300
+
+    logger changes
+
+[33mcommit 183b6ab913462f39a53551ec62c06d95a8cebda0[m
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri Apr 13 11:37:17 2018 +0300
+
+    fixing shit and comments
+
+[33mcommit 12e6d87a6c48c7c804f2ca5733b0e341a22372f3[m
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Thu Apr 12 19:14:52 2018 +0300
+
+    added Task for executeCommnad
+
+[33mcommit 523284987f9577f94fb4b37d14d079aa0797972f[m
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Thu Apr 12 18:28:45 2018 +0300
+
+    change it to move file rather then copy it
+
+[33mcommit 15a5797fd84ec52e916ae2b3fa25ae0f7db3e74e[m
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Thu Apr 12 14:45:21 2018 +0300
+
+    hhh
+
+[33mcommit e2ac7e52dad85d051f6bae75bb8b00a459ff445a[m
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Thu Apr 12 07:53:25 2018 +0300
+
+    fixed addFile
+
+[33mcommit b380defd684b77ab956fe44bf6866deb2f667d34[m
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Wed Apr 11 16:38:05 2018 +0300
+
+    update the logic to work
+
+[33mcommit 8e4cad48f37896fa6ac7b1eda83f28d1d51c006a[m
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Thu Mar 29 16:04:05 2018 +0300
+
+    appConfig
+
+[33mcommit a7167693cc8f02607e2dcd486bc302168b67c694[m
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Thu Mar 29 13:28:32 2018 +0300
+
+    Change
+
+[33mcommit e9799365fe6e825daa691b31a146ae41f5391563[m
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Thu Mar 29 11:49:50 2018 +0300
+
+    deleted
+
+[33mcommit b1297b0d832b026ff8e5a928ac2a7e4ae61dd290[m
+Author: greensd4 <33864348+greensd4@users.noreply.github.com>
+Date:   Thu Mar 29 11:40:32 2018 +0300
+
+    serv
+
+[33mcommit fd4e415b575c3acde3589a504a0c6865943fef25[m
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Thu Mar 29 10:59:58 2018 +0300
+
+    ss
+
+[33mcommit 80acee7090d1df6ac8247c9609fd6a76e691f206[m
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Thu Mar 29 10:57:42 2018 +0300
+
+    deleted trash
+
+[33mcommit e0059ce0d3bea6e079f29f028944aa069f163648[m
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Thu Mar 29 10:43:45 2018 +0300
+
+    deleted ConsoleApp
+
+[33mcommit b2871a08415907a6d6b77552efd90fe47e68afb3[m
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Wed Mar 28 16:54:46 2018 +0300
+
+    merge
+
+[33mcommit d0b719645fcd501e033da54b0e344dd808e43631[m
+Author: greensd4 <33864348+greensd4@users.noreply.github.com>
+Date:   Wed Mar 28 15:55:35 2018 +0300
+
+    Server+DirectoryHandler fix
+
+[33mcommit 0223d19c881d769e91202d5b8a8d0955a93e5c48[m
+Author: greensd4 <33864348+greensd4@users.noreply.github.com>
+Date:   Wed Mar 28 15:49:37 2018 +0300
+
+    Server+DirectoryHandler
+
+[33mcommit 055cd477f42b1b41bdab57e8368a4e3bf5f78ec6[m
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Wed Mar 28 13:02:49 2018 +0300
+
+    changed AddFile
+
+[33mcommit fe4a4e1abb17c04168632e9953a82790c08f4099[m
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Tue Mar 27 17:05:28 2018 +0300
+
+    change
+
+[33mcommit fd4dd786f48f526ee14b7c4bdbc3b950ee40c401[m
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Tue Mar 27 17:04:32 2018 +0300
+
+    new
+
+[33mcommit da8333d246d61c57eb876c9fc4708a5e0bbfb268[m
+Author: eilon47 <33837343+eilon47@users.noreply.github.com>
+Date:   Tue Mar 27 15:01:07 2018 +0300
+
+    Add files via upload
+
+[33mcommit 66f33925e7490975a43da205f1da08086e633ae8[m
+Author: eilon47 <33837343+eilon47@users.noreply.github.com>
+Date:   Tue Mar 27 14:59:47 2018 +0300
+
+    Create README.md

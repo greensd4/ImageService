@@ -1,0 +1,29 @@
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\Communication\bin\Debug\Communication.exe.config
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\Communication\bin\Debug\Communication.exe
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\Communication\bin\Debug\Communication.pdb
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\Communication\obj\Debug\Communication.exe
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\Communication\obj\Debug\Communication.pdb
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+C:\Users\green\Source\Repos\ImageService\Communication\bin\Debug\Communication.exe.config
+C:\Users\green\Source\Repos\ImageService\Communication\bin\Debug\Communication.exe
+C:\Users\green\Source\Repos\ImageService\Communication\bin\Debug\Communication.pdb
+C:\Users\green\Source\Repos\ImageService\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+C:\Users\green\Source\Repos\ImageService\Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+C:\Users\green\Source\Repos\ImageService\Communication\obj\Debug\Communication.exe
+C:\Users\green\Source\Repos\ImageService\Communication\obj\Debug\Communication.pdb
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\Communication\bin\Debug\Communication.exe.config
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\Communication\bin\Debug\Communication.exe
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\Communication\bin\Debug\Communication.pdb
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\Communication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\Communication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\Communication\obj\Debug\Communication.csproj.CopyComplete
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\Communication\obj\Debug\Communication.exe
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\Communication\obj\Debug\Communication.pdb
+C:\Users\green\Source\Repos\ImageService\Communication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\green\Source\Repos\ImageService\Communication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\green\Source\Repos\ImageService\Communication\obj\Debug\Communication.csproj.CopyComplete
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\Communication\bin\Debug\ServerConfig.json
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\Communication\obj\Debug\Communication.csprojAssemblyReference.cache
+C:\Users\green\Source\Repos\ImageService\Communication\bin\Debug\ServerConfig.json

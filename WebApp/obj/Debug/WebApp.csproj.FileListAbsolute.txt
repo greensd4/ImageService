@@ -1,0 +1,194 @@
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\ApplicationInsights.config
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\WebApp.dll.config
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\WebApp.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\WebApp.pdb
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\csc.exe
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\csc.exe.config
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\csc.rsp
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\csi.exe
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\csi.exe.config
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\csi.rsp
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.Console.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\vbc.exe
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\vbc.rsp
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Microsoft.AI.Web.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\System.Web.Helpers.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\System.Web.Mvc.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\System.Web.Optimization.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\System.Web.Razor.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\System.Web.WebPages.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\WebGrease.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\System.Web.Helpers.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\System.Web.Mvc.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\System.Web.Optimization.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\System.Web.Razor.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\System.Web.WebPages.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Microsoft.AI.Web.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\obj\Debug\WebApp.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\obj\Debug\WebApp.pdb
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Communication.exe
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Communication.pdb
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\Communication.exe.config
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\WebApp\bin\ServerConfig.json
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\ApplicationInsights.config
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\ServerConfig.json
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\WebApp.dll.config
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\WebApp.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\WebApp.pdb
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\csc.exe
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\csc.exe.config
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\csc.rsp
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\csi.exe
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\csi.exe.config
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\csi.rsp
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.Console.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\vbc.exe
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\vbc.rsp
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Communication.exe
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Microsoft.AI.Web.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\System.Web.Helpers.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\System.Web.Mvc.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\System.Web.Optimization.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\System.Web.Razor.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\System.Web.WebPages.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\WebGrease.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Communication.pdb
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Communication.exe.config
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\System.Web.Helpers.xml
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\System.Web.Mvc.xml
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\System.Web.Optimization.xml
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\System.Web.Razor.xml
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\System.Web.WebPages.xml
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Microsoft.AI.Web.xml
+C:\Users\green\Source\Repos\ImageService\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\green\Source\Repos\ImageService\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\green\Source\Repos\ImageService\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\green\Source\Repos\ImageService\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\green\Source\Repos\ImageService\WebApp\obj\Debug\WebApp.dll
+C:\Users\green\Source\Repos\ImageService\WebApp\obj\Debug\WebApp.pdb

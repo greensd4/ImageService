@@ -1,0 +1,62 @@
+﻿@model WebApp.Models.ImageWebModel
+
+@{
+    ViewBag.Title = "ImageWeb";
+}
+
+<h2>Image Web</h2>
+@using (Html.BeginForm())
+{
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <table class="table">
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.Status)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.Status)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.PhotosCounter)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.PhotosCounter)
+                </td>
+            </tr>
+        </table>
+
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Students[0].FullName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Students[0].ID)
+                </th>
+            </tr>
+            @foreach (var item in Model.Students)
+            {
+            <tr>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.FullName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ID)
+                </td>
+
+            </tr>
+            }
+
+
+        </table>
+
+
+
+    </div>
+}

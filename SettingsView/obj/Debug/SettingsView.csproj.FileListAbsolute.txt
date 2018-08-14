@@ -1,0 +1,134 @@
+C:\Users\green\onedrive\documents\visual studio 2017\Projects\SettingsView\SettingsView\obj\Debug\ConfigViewModel.g.cs
+C:\Users\green\onedrive\documents\visual studio 2017\Projects\SettingsView\SettingsView\obj\Debug\MainWindow.g.cs
+C:\Users\green\onedrive\documents\visual studio 2017\Projects\SettingsView\SettingsView\obj\Debug\App.g.cs
+C:\Users\green\onedrive\documents\visual studio 2017\Projects\SettingsView\SettingsView\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\green\onedrive\documents\visual studio 2017\Projects\SettingsView\SettingsView\obj\Debug\SettingsView_MarkupCompile.cache
+C:\Users\green\onedrive\documents\visual studio 2017\Projects\SettingsView\SettingsView\obj\Debug\SettingsView_MarkupCompile.lref
+C:\Users\green\onedrive\documents\visual studio 2017\Projects\SettingsView\SettingsView\bin\Debug\SettingsView.exe.config
+C:\Users\green\onedrive\documents\visual studio 2017\Projects\SettingsView\SettingsView\bin\Debug\SettingsView.exe
+C:\Users\green\onedrive\documents\visual studio 2017\Projects\SettingsView\SettingsView\bin\Debug\SettingsView.pdb
+C:\Users\green\onedrive\documents\visual studio 2017\Projects\SettingsView\SettingsView\obj\Debug\ConfigViewModel.baml
+C:\Users\green\onedrive\documents\visual studio 2017\Projects\SettingsView\SettingsView\obj\Debug\MainWindow.baml
+C:\Users\green\onedrive\documents\visual studio 2017\Projects\SettingsView\SettingsView\obj\Debug\SettingsView.g.resources
+C:\Users\green\onedrive\documents\visual studio 2017\Projects\SettingsView\SettingsView\obj\Debug\SettingsView.Properties.Resources.resources
+C:\Users\green\onedrive\documents\visual studio 2017\Projects\SettingsView\SettingsView\obj\Debug\SettingsView.csproj.GenerateResource.cache
+C:\Users\green\onedrive\documents\visual studio 2017\Projects\SettingsView\SettingsView\obj\Debug\SettingsView.csproj.CoreCompileInputs.cache
+C:\Users\green\onedrive\documents\visual studio 2017\Projects\SettingsView\SettingsView\obj\Debug\SettingsView.exe
+C:\Users\green\onedrive\documents\visual studio 2017\Projects\SettingsView\SettingsView\obj\Debug\SettingsView.pdb
+C:\Users\green\OneDrive\Documents\Visual Studio 2017\Projects\SettingsView\SettingsView\bin\Debug\ImageService.exe
+C:\Users\green\OneDrive\Documents\Visual Studio 2017\Projects\SettingsView\SettingsView\bin\Debug\ImageService.exe.config
+C:\Users\green\OneDrive\Documents\Visual Studio 2017\Projects\SettingsView\SettingsView\obj\Debug\SettingsView.csproj.CopyComplete
+C:\Users\green\OneDrive\Documents\Visual Studio 2017\Projects\SettingsView\SettingsView\bin\Debug\ImageService.pdb
+C:\Users\green\OneDrive\Documents\Visual Studio 2017\Projects\SettingsView\SettingsView\obj\Debug\SettingsView.csprojResolveAssemblyReference.cache
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\SettingsView.exe.config
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\SettingsView.exe
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\SettingsView.pdb
+C:\Users\green\Source\Repos\ImageService\SettingsView\obj\Debug\SettingsView.csprojResolveAssemblyReference.cache
+C:\Users\green\Source\Repos\ImageService\SettingsView\obj\Debug\MainWindow.g.cs
+C:\Users\green\Source\Repos\ImageService\SettingsView\obj\Debug\App.g.cs
+C:\Users\green\Source\Repos\ImageService\SettingsView\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\green\Source\Repos\ImageService\SettingsView\obj\Debug\SettingsView_MarkupCompile.cache
+C:\Users\green\Source\Repos\ImageService\SettingsView\obj\Debug\SettingsView_MarkupCompile.lref
+C:\Users\green\Source\Repos\ImageService\SettingsView\obj\Debug\MainWindow.baml
+C:\Users\green\Source\Repos\ImageService\SettingsView\obj\Debug\SettingsView.g.resources
+C:\Users\green\Source\Repos\ImageService\SettingsView\obj\Debug\SettingsView.Properties.Resources.resources
+C:\Users\green\Source\Repos\ImageService\SettingsView\obj\Debug\SettingsView.csproj.GenerateResource.cache
+C:\Users\green\Source\Repos\ImageService\SettingsView\obj\Debug\SettingsView.csproj.CoreCompileInputs.cache
+C:\Users\green\Source\Repos\ImageService\SettingsView\obj\Debug\SettingsView.csproj.CopyComplete
+C:\Users\green\Source\Repos\ImageService\SettingsView\obj\Debug\SettingsView.exe
+C:\Users\green\Source\Repos\ImageService\SettingsView\obj\Debug\SettingsView.pdb
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\SettingsView.csprojResolveAssemblyReference.cache
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\ConfigViewModel.g.cs
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\LogViewModel.g.cs
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\MainWindow.g.cs
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\App.g.cs
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\SettingsView_MarkupCompile.cache
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\SettingsView_MarkupCompile.lref
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\bin\Debug\SettingsView.exe.config
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\bin\Debug\SettingsView.exe
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\bin\Debug\SettingsView.pdb
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\ConfigViewModel.baml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\LogViewModel.baml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\MainWindow.baml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\SettingsView.g.resources
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\SettingsView.Properties.Resources.resources
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\SettingsView.csproj.GenerateResource.cache
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\SettingsView.csproj.CoreCompileInputs.cache
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\SettingsView.csproj.CopyComplete
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\SettingsView.exe
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\SettingsView.pdb
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\bin\Debug\Communication.exe
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\bin\Debug\Communication.pdb
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\bin\Debug\Communication.exe.config
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\View\ConfigView.g.cs
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\View\LogView.g.cs
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\View\MainWindow.g.cs
+C:\Users\green\Source\Repos\ImageService\SettingsView\obj\Debug\View\ConfigView.g.cs
+C:\Users\green\Source\Repos\ImageService\SettingsView\obj\Debug\View\LogView.g.cs
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\Communication.exe
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\Communication.pdb
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\Communication.exe.config
+C:\Users\green\Source\Repos\ImageService\SettingsView\obj\Debug\View\ConfigView.baml
+C:\Users\green\Source\Repos\ImageService\SettingsView\obj\Debug\View\LogView.baml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\View\ConfigView.baml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\View\LogView.baml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\ImageService\SettingsView\obj\Debug\View\MainWindow.baml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\obj\Debug\MainWindow.g.cs
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\obj\Debug\View\ConfigView.g.cs
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\obj\Debug\App.g.cs
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\obj\Debug\SettingsView_MarkupCompile.cache
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\obj\Debug\SettingsView_MarkupCompile.lref
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\obj\Debug\SettingsView.exe
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\obj\Debug\SettingsView.pdb
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\SettingsView.exe.config
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\SettingsView.exe
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\SettingsView.pdb
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\Communication.exe
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\Communication.pdb
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\Communication.exe.config
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\obj\Debug\View\LogView.g.cs
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\obj\Debug\MainWindow.baml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\obj\Debug\View\ConfigView.baml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\obj\Debug\View\LogView.baml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\obj\Debug\SettingsView.g.resources
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\obj\Debug\SettingsView.Properties.Resources.resources
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\obj\Debug\SettingsView.csproj.GenerateResource.cache
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\obj\Debug\SettingsView.csproj.CoreCompileInputs.cache
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\obj\Debug\SettingsView.csproj.CopyComplete
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\Prism.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\Prism.Wpf.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\Prism.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\Prism.Wpf.xml
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\Prism.dll
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\Prism.Wpf.dll
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\Prism.xml
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\Prism.Wpf.xml
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\obj\Debug\SettingsView.csprojAssemblyReference.cache
+C:\Users\eilon\Desktop\אילון\Advanced Programming 2\ImageService\SettingsView\bin\Debug\ServerConfig.json
+C:\Users\green\Source\Repos\ImageService\SettingsView\bin\Debug\ServerConfig.json

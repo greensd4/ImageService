@@ -1,0 +1,599 @@
+commit 5197241d7f1b03cba15342836bd0bb045af00a1e
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Tue Jun 12 19:55:01 2018 +0300
+
+    w
+
+commit 430f41afca69e7e8346b951320d23c41ad7866bf
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Tue Jun 12 19:35:48 2018 +0300
+
+    d
+
+commit 4e988abf086ad56951cb86f8f38de6eba2bafa95
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Tue Jun 12 19:01:38 2018 +0300
+
+    delete file ok
+
+commit a87904b3b86b479d2f407ebf115a71600fb43af0
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Mon Jun 11 14:19:41 2018 +0300
+
+    fix offline bugs
+
+commit 7b50cbc145baa0eac527fc5e23676768b178b8b9
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Sun Jun 10 19:15:16 2018 +0300
+
+    delete and enlarge photos
+
+commit 6c3d03c56fa60bb0b799e8a7e4b07043fcfa8374
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Sun Jun 10 18:54:10 2018 +0300
+
+    Added photos options
+
+commit 98f9bc86bffce6b02cebc5ddd214d0d2b9adfe86
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Sun Jun 10 14:23:00 2018 +0300
+
+    Logs filter
+
+commit 18b59a7bee03a13069086d67d5827178908210d0
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Sat Jun 9 17:04:52 2018 +0300
+
+    show name of handler to delete
+
+commit 51ea8f56a58ee5e47fafc85c3f1b41ecd7c8b5ca
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Sat Jun 9 16:42:41 2018 +0300
+
+    Added log without filter
+
+commit a70e72b4bde88928d291b4ee161c2e2f5287964c
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Sat Jun 9 16:23:40 2018 +0300
+
+    fix
+
+commit 738153548ea7d51f1bcb1ac99ab9f846651b9498
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Sat Jun 9 15:31:17 2018 +0300
+
+    delete writing to file
+
+commit c6e5bab14174e218dd89bc1f3805f3b77e73f12e
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Sat Jun 9 15:30:33 2018 +0300
+
+    Config and ImageWeb
+
+commit 2b9c613a1632b95319dee8fe2c937e1f4cc558ec
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri Jun 8 12:34:18 2018 +0300
+
+    config
+
+commit 78523aad3065c3923da3bb443c3a80ed34ccf57c
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri Jun 8 08:09:03 2018 +0300
+
+    webapp
+
+commit 7626e3e2f6138dd4a584946feedf3a03069a023a
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri Jun 8 07:26:12 2018 +0300
+
+    cds
+
+commit 531fd6bc123a66c65994fa859117aa53e697e5e9
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri Jun 8 07:18:53 2018 +0300
+
+    cds
+
+commit 7c0bd693f6ddcf19cb22e01c7698b74ce352f118
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri Jun 8 07:14:58 2018 +0300
+
+    Removing webapp
+
+commit 9ef0638d411719d92ac76fbcf7a5ad86e97589c4
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri Jun 8 06:49:35 2018 +0300
+
+    sss
+
+commit 42df894e46fdd52d41d5cfead99cb1be8b77c337
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Thu Jun 7 23:59:47 2018 +0300
+
+    additional things
+
+commit 5685a737252dbbb96ce56e9fed4ccd445463d7d5
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Thu Jun 7 23:51:06 2018 +0300
+
+    Wen Project opened
+
+commit d11aa96c6f0a28e4b87883685b291c59987d3400
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Sat May 26 16:28:20 2018 +0300
+
+    publish to all clients
+
+commit f587ae94d1110cab3d2edc5e22ede9aec529b74a
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Sat May 26 16:07:58 2018 +0300
+
+    publish to all clients
+
+commit 85e4d761a32d69dd0ac0152aa11dba8bc78ee7a3
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri May 25 09:01:45 2018 +0300
+
+    ddd
+
+commit cd7f622918054b6c12890620758db90e65594c26
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri May 25 08:33:04 2018 +0300
+
+    d
+
+commit e2df3cedfaaeef5d2b29d9d37e304b1a4fe033a3
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri May 25 08:20:35 2018 +0300
+
+    /
+
+commit 3186fe46729692c0b0b250af4dd72bc5f0fcc120
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri May 25 08:15:57 2018 +0300
+
+    Updated View
+
+commit f4dd0620fc141f46d39b9c9f56ed46a599bb480c
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri May 25 07:57:37 2018 +0300
+
+    Comments
+
+commit 17916e04516c3af0819d0c97c014ce05a906f202
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri May 25 07:52:42 2018 +0300
+
+    Comments
+
+commit f291a03989f78a9252ecd346349fef582df6620f
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri May 25 07:44:31 2018 +0300
+
+    Comments
+
+commit c90684f8e87d52318cb8801f507357ea7a5c8a23
+Author: eilon47 <33837343+eilon47@users.noreply.github.com>
+Date:   Fri May 25 07:29:40 2018 +0300
+
+    Delete LogViewModel.xaml.cs
+
+commit 013bd3bde8b67f001bcd6392ffbf350bdcd2b543
+Author: eilon47 <33837343+eilon47@users.noreply.github.com>
+Date:   Fri May 25 07:29:31 2018 +0300
+
+    Delete LogViewModel.xaml
+
+commit f7258446e63e427a38482bfdacd0c67b985a80b8
+Author: eilon47 <33837343+eilon47@users.noreply.github.com>
+Date:   Fri May 25 07:29:22 2018 +0300
+
+    Delete ConfigViewModel.xaml.cs
+
+commit 62211b8d2030b05bab84e55117a2cd31808e8eaa
+Author: eilon47 <33837343+eilon47@users.noreply.github.com>
+Date:   Fri May 25 07:29:09 2018 +0300
+
+    Delete ConfigViewModel.xaml
+
+commit 853086af72acc6802b224d98be8c6947c91fe440
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Mon May 21 09:45:44 2018 +0300
+
+    aa
+
+commit 0b3186e57f38eeecc1fa1297a55a6b1b9cfdfcdd
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Mon May 21 09:44:19 2018 +0300
+
+    regions orgenize for ImageService and SettingsView
+
+commit 8060c1a57997f5d2367ec8b0651c8de30755ff00
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Sun May 20 15:58:21 2018 +0300
+
+    settings view orgenized
+
+commit d9432a6e4c723b828908ee5ad84db16457356080
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Sun May 20 15:12:33 2018 +0300
+
+    close window command
+
+commit 432c2fae5ec46208b1fea3e85e757a512720d4ce
+Author: eilon47 <33837343+eilon47@users.noreply.github.com>
+Date:   Fri May 18 19:56:48 2018 +0300
+
+    Delete RemoveHandlerCommand.cs
+
+commit 0ce0d7f1283b4811ad2d5fdfc27206ff71a9a50c
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri May 18 19:55:03 2018 +0300
+
+    order
+
+commit 6d34732730de20b422d7516cd3911e926cfe0d62
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri May 18 16:51:25 2018 +0300
+
+    server and stopping handlers
+
+commit 94ef240e458fc227d2879a6e0947e0cfa4b19fd3
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Thu May 17 19:07:11 2018 +0300
+
+    fix to handlers
+
+commit 61c0fb5cb6bdb784969f2430304b6a2f7a5a02ae
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Thu May 17 16:38:18 2018 +0300
+
+    handlers and settings
+
+commit f1f7efa174262f657629c4beaac6d594e3961200
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Tue May 15 23:14:58 2018 +0300
+
+    log can update itself
+
+commit 467dfb7a34d98bd78c18db47611ce85ab628214f
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Tue May 15 22:22:10 2018 +0300
+
+    added some files
+
+commit ab70edfa343c775ff85bc3efafd56d9634601874
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Mon May 14 13:35:50 2018 +0300
+
+    Running when offline
+
+commit a3373e7801dd1366cdb01a90bc8a80f1724630ca
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Mon May 14 09:47:08 2018 +0300
+
+    log type background
+
+commit a453aea08fd7d8a8a3f8a4ca923429f4f87b5fb9
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Mon May 14 08:13:08 2018 +0300
+
+    working on gui
+
+commit de7939afbc05bdff5a6a7eef2b463c2121df4c0d
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Sun May 13 21:57:52 2018 +0300
+
+    server client changes
+
+commit d9e5d0025a5c0f537cca16c65b767ea3091d9fac
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Thu May 10 03:28:06 2018 +0300
+
+    ....
+
+commit 48325b9d26d2b2e57eab1b3abc0bbbee7695652c
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Thu May 10 03:26:14 2018 +0300
+
+    passed shared objects to communication infrastructures
+
+commit 0aac890f0b51a6e69b7a5309a0f0cea0cde1b5d2
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Wed May 9 19:41:51 2018 +0300
+
+    fixed communication
+
+commit ad9740421bfad42965d4f6194eba384e2e7013fb
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Wed May 9 19:37:04 2018 +0300
+
+    communication settings
+
+commit 59b4ae08857e119308efdf3c0b3493de92e18f04
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Wed May 9 20:04:20 2018 +0300
+
+    changes
+
+commit 693af8af7ea8c8d12478f6b3f8c642f90cac8b6c
+Author: eilon47 <33837343+eilon47@users.noreply.github.com>
+Date:   Wed May 9 13:50:15 2018 +0300
+
+    Delete GuiServer.cs
+
+commit 135c9702ea4aa86db8de3030bcc5458e88dd7345
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Wed May 9 13:49:07 2018 +0300
+
+    addded new project for communication, deleted client and server from other projects
+
+commit 7cfb7b684a59465abe6db6566bf4175cf3423b17
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Mon May 7 13:23:27 2018 +0300
+
+    added log queue
+
+commit 58da085cabe3886e926774a9ca9c7fa7e0de48e5
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Sun May 6 18:43:32 2018 +0300
+
+    reading and wirting with server
+
+commit 94881480a1bbc38ee2b00c281e177a847fadb784
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Sun May 6 00:18:43 2018 +0300
+
+    Added new Commands classes
+
+commit ac2ccb7f503c3f606cf1ff5320a989f0ad414d64
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Fri May 4 18:00:32 2018 +0300
+
+    getConfig
+
+commit 002796739ae738abf041ce46c5e009afae79a9d8
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Fri May 4 17:46:24 2018 +0300
+
+    some Json
+
+commit 959587dbe4971177d497603ea5f7cbacb8d89190
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri May 4 13:39:23 2018 +0300
+
+    "chnages at Json Derulo"
+
+commit 536b6c65435ede3d6163207780c79eeddc4032b2
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri May 4 11:31:45 2018 +0300
+
+    sln
+
+commit e64193a11111990ed376a8f844bdc98f3ca2f38a
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Fri May 4 11:27:50 2018 +0300
+
+    all
+
+commit ff3d6f819d23f6aa8c95b7e9ec9e5aa85e24ff15
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Fri May 4 11:21:26 2018 +0300
+
+    fixed
+
+commit 13b5c379bc695d4171c37e1c9a93ebf2d9abbe72
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri May 4 11:17:13 2018 +0300
+
+    ds
+
+commit 0e743a52a4ddff368135e20d4e4e9bdf79a96af5
+Author: eilon47 <33837343+eilon47@users.noreply.github.com>
+Date:   Fri May 4 11:11:03 2018 +0300
+
+    ds
+
+commit f4be135b5a3de17e3d506af6dbead0dbf82f87e0
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri May 4 11:07:36 2018 +0300
+
+    ds
+
+commit 3dc9ee4e38e29d5439726ec8c5974c325b1c6d9e
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Fri May 4 11:02:39 2018 +0300
+
+    logmodel
+
+commit a337d3c95c24bd4c6ba2e1a6628eeb78fea1b8a1
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Thu May 3 12:26:48 2018 +0300
+
+    aa
+
+commit 926456fe47c9b303a2589954ea9e8805e5c755d3
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Wed May 2 16:50:13 2018 +0300
+
+    view part
+
+commit 67105d91f997b3e3084b150d47cbd0ea4929b889
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Wed May 2 14:49:00 2018 +0300
+
+    added the mvvm yo the project
+
+commit c4d884d2bdd3376121680adccb0ac6e3403ce71f
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Wed May 2 11:01:18 2018 +0300
+
+    server
+
+commit 88e26c553f7282dd6152e968e5fe22587d94574a
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Tue May 1 14:36:24 2018 +0300
+
+    ex2
+
+commit c0dc7381385abe7804d7d28e03995badf6c3666f
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Sun Apr 15 16:39:01 2018 +0300
+
+    renaming
+
+commit 125bbbb432fe588d76282dda39fb22fd2cd5457c
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Sun Apr 15 12:07:52 2018 +0300
+
+    renaming
+
+commit d294e6234e8dd0b14f45c9919f7b563a381a0000
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Sat Apr 14 17:08:39 2018 +0300
+
+    Canceled renaming and stuff
+
+commit 2e0a8706a2d63008435ad9ebd1572bdb9b673148
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Sat Apr 14 15:26:05 2018 +0300
+
+    ignore double files
+
+commit df212e013d386b71dfde4bb3900a5daacb7a2ff2
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Sat Apr 14 11:58:16 2018 +0300
+
+    added month name
+
+commit 1f83350cbeb0598dc65d0af48255924627d6be39
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Fri Apr 13 13:13:47 2018 +0300
+
+    logger changes
+
+commit 183b6ab913462f39a53551ec62c06d95a8cebda0
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Fri Apr 13 11:37:17 2018 +0300
+
+    fixing shit and comments
+
+commit 12e6d87a6c48c7c804f2ca5733b0e341a22372f3
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Thu Apr 12 19:14:52 2018 +0300
+
+    added Task for executeCommnad
+
+commit 523284987f9577f94fb4b37d14d079aa0797972f
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Thu Apr 12 18:28:45 2018 +0300
+
+    change it to move file rather then copy it
+
+commit 15a5797fd84ec52e916ae2b3fa25ae0f7db3e74e
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Thu Apr 12 14:45:21 2018 +0300
+
+    hhh
+
+commit e2ac7e52dad85d051f6bae75bb8b00a459ff445a
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Thu Apr 12 07:53:25 2018 +0300
+
+    fixed addFile
+
+commit b380defd684b77ab956fe44bf6866deb2f667d34
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Wed Apr 11 16:38:05 2018 +0300
+
+    update the logic to work
+
+commit 8e4cad48f37896fa6ac7b1eda83f28d1d51c006a
+Author: daniel greenspan <greenspan1993@gmail.com>
+Date:   Thu Mar 29 16:04:05 2018 +0300
+
+    appConfig
+
+commit a7167693cc8f02607e2dcd486bc302168b67c694
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Thu Mar 29 13:28:32 2018 +0300
+
+    Change
+
+commit e9799365fe6e825daa691b31a146ae41f5391563
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Thu Mar 29 11:49:50 2018 +0300
+
+    deleted
+
+commit b1297b0d832b026ff8e5a928ac2a7e4ae61dd290
+Author: greensd4 <33864348+greensd4@users.noreply.github.com>
+Date:   Thu Mar 29 11:40:32 2018 +0300
+
+    serv
+
+commit fd4e415b575c3acde3589a504a0c6865943fef25
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Thu Mar 29 10:59:58 2018 +0300
+
+    ss
+
+commit 80acee7090d1df6ac8247c9609fd6a76e691f206
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Thu Mar 29 10:57:42 2018 +0300
+
+    deleted trash
+
+commit e0059ce0d3bea6e079f29f028944aa069f163648
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Thu Mar 29 10:43:45 2018 +0300
+
+    deleted ConsoleApp
+
+commit b2871a08415907a6d6b77552efd90fe47e68afb3
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Wed Mar 28 16:54:46 2018 +0300
+
+    merge
+
+commit d0b719645fcd501e033da54b0e344dd808e43631
+Author: greensd4 <33864348+greensd4@users.noreply.github.com>
+Date:   Wed Mar 28 15:55:35 2018 +0300
+
+    Server+DirectoryHandler fix
+
+commit 0223d19c881d769e91202d5b8a8d0955a93e5c48
+Author: greensd4 <33864348+greensd4@users.noreply.github.com>
+Date:   Wed Mar 28 15:49:37 2018 +0300
+
+    Server+DirectoryHandler
+
+commit 055cd477f42b1b41bdab57e8368a4e3bf5f78ec6
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Wed Mar 28 13:02:49 2018 +0300
+
+    changed AddFile
+
+commit fe4a4e1abb17c04168632e9953a82790c08f4099
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Tue Mar 27 17:05:28 2018 +0300
+
+    change
+
+commit fd4dd786f48f526ee14b7c4bdbc3b950ee40c401
+Author: elon bashari <elon.bashari@live.biu.ac.il>
+Date:   Tue Mar 27 17:04:32 2018 +0300
+
+    new
+
+commit da8333d246d61c57eb876c9fc4708a5e0bbfb268
+Author: eilon47 <33837343+eilon47@users.noreply.github.com>
+Date:   Tue Mar 27 15:01:07 2018 +0300
+
+    Add files via upload
+
+commit 66f33925e7490975a43da205f1da08086e633ae8
+Author: eilon47 <33837343+eilon47@users.noreply.github.com>
+Date:   Tue Mar 27 14:59:47 2018 +0300
+
+    Create README.md

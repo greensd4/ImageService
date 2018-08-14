@@ -1,0 +1,70 @@
+﻿@model WebApp.Models.ConfigModel
+
+@{
+    ViewBag.Title = "Config";
+}
+
+<h2>Config</h2>
+
+@using (Html.BeginForm())
+{
+
+<div class="form-horizontal">
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    <table class="table">
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.OutputDir)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.OutputDir)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.SourceName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.SourceName)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.LogName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.LogName)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.ThumbnailSize)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.ThumbnailSize)
+            </td>
+        </tr>
+
+    </table>
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Handlers)
+            </th>
+        </tr>
+        @foreach (var item in Model.Handlers)
+        {
+            <tr>
+
+                <td>
+                    @Html.ActionLink(@item, "ClickedOnHandler", new { clickedHandler = item })
+                </td>
+
+            </tr>
+        }
+    </table>
+</div>
+}

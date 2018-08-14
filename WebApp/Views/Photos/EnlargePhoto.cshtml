@@ -1,0 +1,10 @@
+﻿@model WebApp.Models.PhotosModel
+
+@{
+    ViewBag.Title = "EnlargePhoto";
+}
+<h2> @Model.ClickedPhotoName </h2>
+<img src="/@Model.ClickedPhotoPath.Replace(Server.MapPath("~"),"").Replace("\\","/")" alt="Photo to delete" />
+@Html.ActionLink("Delete", "DeletePhotoPressed", new { name = Model.ClickedPhotoName, path = Model.ClickedPhotoPath, thumbPath = Model.ClickedPhotoThumbPath }, new { @class = "btn btn-primary btn-info btn-xs" })
+@Html.ActionLink("Back", "BackToPhotos", null ,new { @class = "btn btn-primary btn-info btn-xs" })
+
